@@ -1,5 +1,5 @@
 # SNSR-GAN
-A PyTorch(python 3.6) and OpenCV test implementation of SNSRGAN
+A PyTorch(python 3.6) and OpenCV test implementation of SNSR-GAN
 Super-resolution Pulmonary CT synthesis using generative adversarial nets with spectral normalization (under review).
 
 ## Requirements

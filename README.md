@@ -22,8 +22,7 @@ Download the trained models from [here](https://pan.baidu.com/s/1PXVnLlGv_tvBXeG
 
 ### Test Single Image
 '''
-python test_image1.py         
-test the trained SNSR-GAN 
+python test_image1.py         test the trained SNSR-GAN 
 
 python test_image2.py         test the trained SNSR-GAN variant without spectral normalization or label information
 '''

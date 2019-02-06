@@ -15,8 +15,8 @@ Download the dataset from [here](https://data.mendeley.com/datasets/rscbjbr9sj/3
 ### Chest X-ray 14 Dataset
 Download the dataset from [here](https://nihcc.app.box.com/v/ChestXray-NIHCC), and then extract it into `data/train` directory.
 
-### Trained models
-Download the trained models from [here](https://pan.baidu.com/s/1PXVnLlGv_tvBXeGjGCuLdQ) password: 3gtz , and then extract it into `trained_models` directory.
+### Trained models and testing data
+Download the trained models and testing data from [here](https://pan.baidu.com/s/1PXVnLlGv_tvBXeGjGCuLdQ) password: 3gtz , and extract them into corresponding directory.
 
 ## Usage
 

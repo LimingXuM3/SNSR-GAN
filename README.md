@@ -38,12 +38,19 @@ python msim.py                                   compute the MSIM value
 python ssim.py                                   compute the SSIM value
 '''
 
-### Citation
+## Citation
 @article{2020Low,
+
   title={Low-dose chest X-ray image super-resolution using generative adversarial nets with spectral normalization},
+  
   author={ Xu, Liming and Zeng, Xianhua and Huang, Zhiwei and Li, Wweisheng and Zhang, He},
+  
   journal={Biomedical Signal Processing and Control},
+  
   volume={55},
+  
   pages={101600},
+  
   year={2020},
+  
 }

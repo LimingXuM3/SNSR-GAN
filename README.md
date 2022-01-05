@@ -1,5 +1,5 @@
 # SNSR-GAN
-A PyTorch(python 3.6) and OpenCV test implementation of the paper 'Low-dose Pulmonary CT Super-resolution using Generative Adversarial Nets with Spectral Normalization(SNSR-GAN)' (Biomedical Signal Processing and Control).
+A PyTorch(python 3.6) and OpenCV test implementation of the paper 'Low-dose Pulmonary CT Super-resolution using Generative Adversarial Nets with Spectral Normalization'.
 
 ## Requirements
 - PyTorch
@@ -38,3 +38,12 @@ python msim.py                                   compute the MSIM value
 python ssim.py                                   compute the SSIM value
 '''
 
+### Citation
+@article{2020Low,
+  title={Low-dose chest X-ray image super-resolution using generative adversarial nets with spectral normalization},
+  author={ Xu, Liming and Zeng, Xianhua and Huang, Zhiwei and Li, Wweisheng and Zhang, He},
+  journal={Biomedical Signal Processing and Control},
+  volume={55},
+  pages={101600},
+  year={2020},
+}
